@@ -17,7 +17,7 @@ Siempre busco aprender nuevas tecnologías y mejorar cada proyecto que realizo.
 - 🔭 Actualmente trabajando en **RepTracker**, una app de seguimiento de rutinas y progreso físico con **Firebase y Flutter**.  
 - 🌱 Aprendiendo sobre **integración con dispositivos wearables** y **sincronización en tiempo real**.  
 - 💬 Pregúntame sobre **Flutter, Firebase, integración de APIs, autenticación y UI/UX móvil**.  
-- 📫 Cómo contactarme: [ifranco.dev@gmail.com](mailto:ifranco.dev@gmail.com)  
+- 📫 Cómo contactarme: [i_franco@outlook.com](mailto:i_franco@outlook.com), [i.francomtz07@gmail.com](mailto:i.francomtz07@gmail.com)
 
 ---
 
